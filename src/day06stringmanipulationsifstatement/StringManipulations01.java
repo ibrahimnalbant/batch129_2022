@@ -153,7 +153,7 @@ public class StringManipulations01 {
         //Example 12: Sayi uc basamakli ise ekrana "Wooow!" yazdirin.
         int n = 123;
 
-        n = Math.abs(n);
+        n = Math.abs(n); // absolute: mutlak deger
 
         if(n>99 && n<1000){
             System.out.println("Wooow!");

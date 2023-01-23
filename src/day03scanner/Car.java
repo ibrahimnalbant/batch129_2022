@@ -8,8 +8,8 @@ public class Car {
 
     public static void main(String[] args) {
 
-        //Class ismini yazin #Objeye isim verin   =   new keywordunu kullanin  Class ismini ()
-        Car                myCorolla          =   new                        Car();
+        //Class ismini yazin #Objeye isim verin      =   new keywordunu kullanin  Class ismi ();
+               Car                myCorolla          =        new                     Car();
         System.out.println(myCorolla.fiyat);
         System.out.println(myCorolla.model);
         myCorolla.hareket();

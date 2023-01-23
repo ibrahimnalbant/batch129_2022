@@ -14,7 +14,7 @@ public class Variables01 {
         //Eger Variable Declaration yapar, Assignment yapmazsaniz Java kendi degerlerini(default) koyar.
         //Default degerler sayilar icin sifirdir.
         // Data Type'ini yaziniz   Variable ismi yaziniz  Assignment Operator(Atama Operatoru)   Variable degeri   Ingilizce'deki nokta gibi
-        int                      age                     =                                   13                   ;
+             int                      age                     =                                   13                   ;
 
         //Ornek 1: Ogrenci ismi icin variable olusturup deger olarak Ali Can atayiniz.
         //String'lere verilen degerler cift tirnak icinde olmalidir.

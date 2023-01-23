@@ -5,7 +5,7 @@ public class Runner {
     public static void main(String[] args) {
 
         //Object nasil olusturulur?
-        // Class Ismi         Obje Ismi    Atama operatörü     "new" keyword    Constructor
+        // Class Ismi         Obje Ismi    Atama operatörü     "new" keyword    Constructor, class ismi ve ();
                Car              myCar             =               new              Car();
 
         System.out.println(myCar.fiyat);
@@ -21,6 +21,6 @@ public class Runner {
         tomHanks.feed();
 
 
-    }
-    }
+    }// main
+}// class
 

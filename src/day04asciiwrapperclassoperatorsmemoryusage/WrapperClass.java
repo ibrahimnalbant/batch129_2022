@@ -72,5 +72,6 @@ public class WrapperClass {
 
         System.out.println(tv + radio);//$11000$3000
         int totalPrice = Integer.valueOf(tv) + Integer.valueOf(radio);
+        System.out.println(totalPrice);// $ isaretinden dolayi hata veriyor.
     }
 }
