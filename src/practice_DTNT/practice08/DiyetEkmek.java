@@ -6,11 +6,11 @@ public class DiyetEkmek extends MisirEkmek{
 
 
     @Override
-    void gramaj500() {
+    public void gramaj500() {
         System.out.println("Diyet hijyeniktir");
     }
     @Override
-    void hijyenikOlma() {
+    public void hijyenikOlma() {
         System.out.println("Diyet 100 gr dir");
     }
 

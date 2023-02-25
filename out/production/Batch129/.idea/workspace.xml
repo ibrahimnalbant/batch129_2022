@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="581698bd-df7a-47a9-ad20-65999b61e836" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aaadailystudy/DuplicateString01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaadailystudy/DuplicateString02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaadailystudy/DuplicateString03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaadailystudy/Merhaba01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calisma00/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calisma00/Otomat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calisma00/SwapNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calisma00/TasMakas3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day28exceptions/Exceptions01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day28exceptions/Exceptions02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day28exceptions/Exceptions03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day28exceptions/Exceptions04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day28exceptions/Exceptions05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day28exceptions/Exceptions06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_questions/InterviewQuestions01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_questions/InterviewQuestions02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice04/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice04/HackerLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice04/HesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice04/HesapMakinesiVarargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice04/Q01_Arrays_OrtalamadanBuyuk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice04/Q02_Arrays_OrtakElemanlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice04/Q04_Foreach_Sifreleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice04/Q05_Varargs_KullaniciBilgileri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice04/Q06_MountainAray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice06/C02_Varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice06/C04_MD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice06/C05_WhileLoopDoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice06/Q02_Switch_AyGunleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice06/Q03_ForLoop_UcgenNumara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice08/BagetEkmek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice08/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice08/Chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice08/DiyetEkmek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice08/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice08/Kumanda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice08/KumandaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice08/KumandaTask" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice08/MisirEkmek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice08/Safari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_DTNT/practice08/TSE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projeler01/CoffeeMachine01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projeler01/CoffeeMachine02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/BMICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/DaysInMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/FindDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/FindDuplicates02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/GCDLCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/If_Switch_Ternary_StringMeth_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/MiddleOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/SameChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/StringCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replitquestions/SwitchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Batch129.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Batch129.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Batch129/aaadailystudy/DailyStudy01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Batch129/aaadailystudy/YazBoz.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Batch129/aaadailystudy/YazBoz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Batch129/day04asciiwrapperclassoperatorsmemoryusage/WrapperClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Batch129/day04asciiwrapperclassoperatorsmemoryusage/WrapperClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aaadailystudy/DailyStudy01.java" beforeDir="false" afterPath="$PROJECT_DIR$/calisma00/DailyStudy01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aaadailystudy/YazBoz.java" beforeDir="false" afterPath="$PROJECT_DIR$/aaadailystudy/YazBoz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03scanner/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03scanner/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03scanner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03scanner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04asciiwrapperclassoperatorsmemoryusage/WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04asciiwrapperclassoperatorsmemoryusage/WrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06stringmanipulationsifstatement/StringManipulations01.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06stringmanipulationsifstatement/StringManipulations01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KYxebSzhptTDTdDuK03BINE6On" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/lenovo/IdeaProjects/batch129/src"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="581698bd-df7a-47a9-ad20-65999b61e836" name="Changes" comment="" />
+      <created>1674165413786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674165413786</updated>
+    </task>
+    <servers />
+  </component>
+</project>

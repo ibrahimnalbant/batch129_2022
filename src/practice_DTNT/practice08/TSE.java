@@ -28,10 +28,10 @@ public abstract class TSE {
     abstract void gramaj500(); // abstract method'da body yok, child'lar buna uymak zorunda
     abstract void hijyenikOlma();
 
-    void odunAtesindePiser(){
+    public void odunAtesindePiser(){
         System.out.println("TSE odun atesinde piser");
     }
-    void undanYapilir(){
+    public void undanYapilir(){
         System.out.println("TSE un'dan Yapilir");
     }
 

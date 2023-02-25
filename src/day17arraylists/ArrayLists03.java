@@ -22,7 +22,7 @@ public class ArrayLists03 {
         System.out.println(cities);
 
         //remove() methodu eleman ile kullanilirsa ilk gorunumu siler
-        //remove() methodu eleman ile kullanilirsa size o elemani sili silmedigini ifade eden
+        //remove() methodu eleman ile kullanilirsa size o elemani silip silmedigini ifade eden
         // true veya false verir.
         // Eger eleman List'te var ise o elemani siler ve size true der.
         // Eger eleman List'te yok ise o elemani silemediginden size false der.

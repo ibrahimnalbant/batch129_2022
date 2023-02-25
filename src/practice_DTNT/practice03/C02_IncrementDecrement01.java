@@ -24,16 +24,16 @@ public class C02_IncrementDecrement01 {
         System.out.println(u);
 ///////// ****************************************** \\\\\\\\\\\\\\\\\\\\
 
-        int sayı = 10;
-        sayı++;
-        System.out.println(sayı);//11
-        sayı++;
-        System.out.println("pre-incrementten once " + sayı);//12
-        System.out.println(" pre-increment satırında " + ++sayı);//13
-        System.out.println("pre-incrementden  sonra" + sayı);//13
+        int sayi = 10;
+        sayi++;
+        System.out.println(sayi);//11
+        sayi++;
+        System.out.println("pre-incrementten once " + sayi);//12
+        System.out.println(" pre-increment satırında " + ++sayi);//13
+        System.out.println("pre-incrementden  sonra" + sayi);//13
 
-        System.out.println("post-increment satırında" + sayı++);//13
-        System.out.println("post-incrementdan sonra " + sayı);//14
+        System.out.println("post-increment satırında" + sayi++);//13
+        System.out.println("post-incrementdan sonra " + sayi);//14
         System.out.println(9f / 2f);//4.5
         System.out.println(9 / 2);//4
 
@@ -44,22 +44,23 @@ public class C02_IncrementDecrement01 {
         System.out.println(num2);//15
         System.out.println(num);//16
 
-        int sayı1 = 10;
-        int sayı2 = 20;
-        int sayı3 = 30;
+        int sayi1 = 10;
+        int sayi2 = 20;
+        int sayi3 = 30;
 
-        sayı2 = sayı1++;
-        System.out.println(sayı1 + "," + sayı2 + "," + sayı3);//11 10 30    61
 
-        sayı3 = ++sayı1;
-        System.out.println(sayı1 + "," + sayı2 + "," + sayı3);
+        sayi2 = sayi1++;
+        System.out.println(sayi1 + "," + sayi2 + "," + sayi3);//11 10 30    61
 
-        System.out.println(sayı3++);//12
+        sayi3 = ++sayi1;
+        System.out.println(sayi1 + "," + sayi2 + "," + sayi3);
 
-        System.out.println(--sayı2);//9
+        System.out.println(sayi3++);//12
 
-        System.out.println(sayı3++);//13
+        System.out.println(--sayi2);//9
 
-        System.out.println(sayı3);//14
+        System.out.println(sayi3++);//13
+
+        System.out.println(sayi3);//14
     }//main
 }//class

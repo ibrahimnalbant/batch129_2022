@@ -21,20 +21,20 @@ public class Lists02 {
 
         Collections.sort(nums);
 
-        System.out.println(nums);
+        System.out.println(nums);   //[9, 11, 12, 23, 35]
 
         int minDiff = nums.get(1) - nums.get(0);
-        System.out.println(minDiff);
+        System.out.println(minDiff);    //2
 
         for (int i = 1; i < nums.size();i++) {
             minDiff = Math.min(minDiff, nums.get(i) - nums.get(i-1));
 
         }
-        System.out.println(minDiff);
+        System.out.println(minDiff);    //1
 
         for (int i = 1; i < nums.size() ; i++) {
             if (nums.get(i) - nums.get(i-1) == minDiff) {
-                System.out.println(nums.get(i) + " and " + nums.get(i-1));
+                System.out.println(nums.get(i) + " and " + nums.get(i-1));  //12 and 11
             }
 
         }

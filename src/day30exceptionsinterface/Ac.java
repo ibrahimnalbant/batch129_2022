@@ -15,12 +15,15 @@ public interface Ac {
 
     //interface'lerdeki variabler otomatik olarak "public" dir, "static" dir, "final" dir
 
-    void cool();  // abstract method olmasina ragmen yazmadik. ama Java kizmiyor. cunku Java Abstract oldugunu biliyor.
-                        // public de silinebilir.cunku java biliyor
+    void cool();  // abstract method olmasina ragmen "abstract" yazmadik. ama Java kizmiyor. cunku Java Abstract oldugunu biliyor.
+                    //     public de silinebilir.cunku java biliyor
     void run();
 
     public static final int price = 2000;
     String model = "Mitsubishi";
+
+
+
 
 
 }//class

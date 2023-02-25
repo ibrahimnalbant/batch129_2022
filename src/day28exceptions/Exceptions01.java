@@ -19,7 +19,7 @@ public class Exceptions01 {
           Bu da ciddi bir matematik bilgisi gerektirir, ve yazacagimiz kodu cok uzatir.
           Ama try Catch'te Java ilgili Exception ile alakali olusabilecek butun problemleri yakalar.
 
-        7) Aritmetik Exception yazdığınız code'da matematiksel işlem kullanıyorsanız alanabilecek bir Exception'dir.
+        7) Aritmetik Exception yazdığınız code'da matematiksel işlem kullanıyorsanız alinabilecek bir Exception'dir.
         8) İçinde rakamlar dışında character olan bir String 'i sayıya çevirmek isterseniz Java "NumberFormatException" atar
         9) Bütün exceptionlar classtır
         10)String'lerde var olmayan index'ler kullanıldığında Java "StringIndexOutOfBoundsException" atar.
